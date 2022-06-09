@@ -1,0 +1,40 @@
+.side_menu .contact_target{
+  background-color: #FCECEC;
+  color: #4D4D4D;
+}
+
+.content table th{
+  height: 7rem;
+  width: 150px;
+  margin-right: 10px;
+  text-align: right;
+}
+
+.content table td{
+  height: 7rem;
+  width: 480px;
+}
+
+.content .textarea{
+  height: 33%;
+  width: 100%;
+}
+
+.botton{
+  padding: 10px;
+  font-size: 3rem;
+  background-color: #008B8B;
+  color: white;
+}
+
+.bt_align{
+  height: 7rem;
+  width: 630px;
+  color: red;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.botton:hover{
+  opacity: 0.5;
+}
